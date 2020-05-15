@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Meuqueridoprofessor</string>
+    <string name="cadsatrarse">Não tem conta? Cadastre-se</string>
+    <string name="logar">Logar</string>
+    <string name="seu_email">Digite seu e-mail</string>
+    <string name="sua_senha">Digite sua senha</string>
+    <string name="seu_nome">DIgite seu nome</string>
+    <string name="btn_cadastrar">cadastrar</string>
+</resources>

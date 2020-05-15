@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1094061580715",
+    "firebase_url": "https://meuqueridoprof.firebaseio.com",
+    "project_id": "meuqueridoprof",
+    "storage_bucket": "meuqueridoprof.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094061580715:android:3564a6575553e29067b2ee",
+        "android_client_info": {
+          "package_name": "br.com.adolfobocchi.meuqueridoprofessor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094061580715-fafpl1jvdlkf8h06ojm7doqr1b61jo0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.adolfobocchi.meuqueridoprofessor",
+            "certificate_hash": "23e5aa099c19e555bb882f669a750605bc334e07"
+          }
+        },
+        {
+          "client_id": "1094061580715-q38ogcobtbkv7tgllviq11isaih5ig9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsXGC4vIhsley88xq9FxowSsZIEj_9twU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094061580715-q38ogcobtbkv7tgllviq11isaih5ig9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
